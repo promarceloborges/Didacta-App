@@ -138,10 +138,4 @@ export default {
   bnccCompetenciasHabilidades,
   // adicione outras exportações se existirem
 };
-    }
-  },
-  "metadados": {
-    "fonte": "INEP - Matrizes de Referência SAEB (ex.: Matriz Língua Portuguesa e Matemática).",
-    "observacao": "Este arquivo contém um extrato representativo dos descritores oficiais. Para uso em produção, recomendo consultar os PDFs oficiais do INEP para a lista completa."
-  }
-};
+   
