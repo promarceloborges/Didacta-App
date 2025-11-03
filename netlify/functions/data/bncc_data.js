@@ -133,6 +133,11 @@ export const saebDescritores = {
           }
         ]
       }
+      // ADICIONE no FINAL do arquivo:
+export default {
+  bnccCompetenciasHabilidades,
+  // adicione outras exportações se existirem
+};
     }
   },
   "metadados": {
