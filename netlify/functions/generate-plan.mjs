@@ -1,5 +1,6 @@
 import { GoogleGenAI, Type } from "@google/genai";
-import { bnccCompetenciasHabilidades } from './data/bncc_data.js';
+import bnccData from './data/bncc_data.js';
+const { bnccCompetenciasHabilidades } = bnccData;
 import { saebDescritores } from './data/saeb_data.js';
 
 const lessonPlanSchema = {
